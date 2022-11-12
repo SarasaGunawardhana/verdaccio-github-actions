@@ -1,9 +1,9 @@
 auth:
   auth-memory:
     users:
-      foo:
-        name: test
-        password: test
+      sarasa:
+        name: sarasa
+        password: sarasa92
 store:
   memory:
     limit: 1000
